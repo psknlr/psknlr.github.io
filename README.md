@@ -8,4 +8,10 @@ The comprehensive data on psoriasis research are numerous and complex, making it
 ## Interactive Websites of Neural Topic Model
 The neural topic model based on deep learning and interactive web tools can effectively identify the research hotspots and trends in psoriasis literature, which can assist clinicians and patients in conveniently retrieving and comparing pertinent topics and research accomplishments of various years. 
 
+<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
 
+
+<tableau-viz id="tableauViz"       
+  src='https://public.tableau.com/app/profile/pariskang/viz/DistributionmapofPsoriasisResearchTopics/FieldofClinicalManifestationsandDifferentialDiagnosis'      
+  device="phone" toolbar="bottom" hide-tabs>
+</tableau-viz>
