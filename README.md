@@ -13,7 +13,7 @@ The neural topic model based on deep learning and interactive web tools can effe
 
 <tableau-viz id="tableauViz"       
   src='https://public.tableau.com/views/DistributionmapofPsoriasisResearchTopics/FieldofPathologicalMechanismsandComorbidities'      
-  device="phone" toolbar="bottom" hide-tabs>
+  device="pc" toolbar="bottom" show-tabs>
 </tableau-viz>
 
 
