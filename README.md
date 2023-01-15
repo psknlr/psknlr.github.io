@@ -3,7 +3,7 @@
 
 
 ## IMPORTANCE
-The comprehensive data on psoriasis research are numerous and complex, making it difficult to retrieve and classify manually. The ability to quickly mine literature based on various fine topics using deep learning natural language processing technology to assess research topics and trends in the field of Psoriasis disease will have a significant impact on doctors' research and patients' health education <a href="https://github.com/tbakerx/react-resume-template">HERE.</a>
+The comprehensive data on psoriasis research are numerous and complex, making it difficult to retrieve and classify manually. The ability to quickly mine literature based on various fine topics using deep learning natural language processing technology to assess research topics and trends in the field of Psoriasis disease will have a significant impact on doctors' research and patients' health education.</a>
 
 ## Interactive Websites of Neural Topic Model
 The neural topic model based on deep learning and interactive web tools can effectively identify the research hotspots and trends in psoriasis literature, which can assist clinicians and patients in conveniently retrieving and comparing pertinent topics and research accomplishments of various years. 
